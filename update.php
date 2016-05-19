@@ -28,4 +28,5 @@
   $json_file = fopen('songs_data.js', 'w');
   fwrite($json_file, 'var song_json_data=' . $json_song_data);
   fclose($json_file);
+echo "<h1>Song Data has been created</h1>";
 ?>

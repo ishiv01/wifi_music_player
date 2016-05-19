@@ -11,3 +11,5 @@ All Done ! Now go to http://localhost:8080/ too see your music player.
 Your friends can access is by connecting to tour wifi hotspot, and then to http://your ip address:8080
 
 Currently we have to manually update the song list by going to http://localhost:8080/update.php
+![](http://i.imgur.com/EtWf3L8.png)
+![](https://i.imgur.com/mwtqwp9.png)
